@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(222, 222, 30);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    border-bottom: 1px solid rgba(101, 97, 97, 0.653);
+}
+h2{
+    font-size: 30px;
+    color:rgb(116, 255, 151);
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+}
